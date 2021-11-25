@@ -7,3 +7,6 @@ MY TO-DO LIST
 5. Visit aunt.
 6. Apply for remote jobs.
 7. Practice code.
+8. Complete course.
+9. Learn DevOps concepts.
+10. Master git & github.
